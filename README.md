@@ -20,13 +20,13 @@ Step 2. Download the dataset from https://drive.google.com/drive/folders/1O8TT0s
 # Installation
 1. Python 3.7
 2. Install python libraries
-3. conda install -r requirements.txt
+conda install -r requirements.txt
 import os
-. import json
 import numpy as np
 import pandas as pd
 from PIL import Image
 from matplotlib import pyplot as plt
+3. import json
 4. import tensorflow as tf
 5. from sklearn.utils import shuffle
 6. from sklearn.preprocessing import LabelEncoder
