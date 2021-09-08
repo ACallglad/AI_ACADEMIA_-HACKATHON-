@@ -1,5 +1,4 @@
-# AI_ACADEMIA_-HACKATHON-
-# hackathon_academiaAI
+# AI_ACADEMIA_HACKATHON-
 # About the Project:
 Detecting and recognizing text in natural images is a challenging problem that has recently received attention. Most methods attempting this have relied on elaborate models incorporating carefully hand crafted features or large amounts of prior knowledge. All methods assume the knowledge of a lexicon of 20-30 words that form the super set of all possible words that can occur in a test image. This makes the problem a lot easier than it would other- wise be. In this report, we present a method of detecting as well as recognizing text contained in natural images using Convolutional Neural Networks (CNNs). We use two CNNs, one trained for the character detection task and another for the character recognition task, as building blocks for the algorithm. Significantly, we do not assume any prior knowledge of a lexicon, unlike all previous works. We demonstrate state-of-the-art experimental results for three different tasks: character detection, character recognition and word recognition, while also showing qualitative results for text recognition. 
 
@@ -27,7 +26,7 @@ conda install -r requirements.txt
 As explained before, we use two CNNs, one for the char- acter detection task and another for the character recognition task. We have used 2 CNN architectures in total, and we label them as CNN-1 and CNN-2. We use rectified linear units (ReLU) as our non-linearities and use dropout as regular- ization. 
 
 # References
-1.	Attention is all you need paper»
+1.	Attention is all you need paper»https://arxiv.org/abs/1706.03762
 2.	http://cs231n.stanford.edu/reports/2015/pdfs/vikesh_final.pdf
 Made By
 
