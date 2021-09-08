@@ -21,11 +21,11 @@ Step 2. Download the dataset from https://drive.google.com/drive/folders/1O8TT0s
 1. Python 3.7
 2. Install python libraries
 conda install -r requirements.txt
-import os
-import numpy as np
-import pandas as pd
-from PIL import Image
-from matplotlib import pyplot as plt
+, import os
+, import numpy as np
+, import pandas as pd
+, from PIL import Image
+, from matplotlib import pyplot as plt
 3. import json
 4. import tensorflow as tf
 5. from sklearn.utils import shuffle
