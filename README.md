@@ -30,7 +30,7 @@ As explained before, we use two CNNs, one for the char- acter detection task and
 1.	Attention is all you need paper»
 2.	http://cs231n.stanford.edu/reports/2015/pdfs/vikesh_final.pdf
 Made By
-•	Contact Yatharth Kapadia @yatharthk2.nn@gmail.com
+
 •	Contact Abhinav Chandra @abhinavchandra0526@gmail.com
 
 
