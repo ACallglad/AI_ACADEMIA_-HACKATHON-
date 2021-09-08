@@ -32,5 +32,5 @@ As explained before, we use two CNNs, one for the char- acter detection task and
 Made By
 
 •	Contact Abhinav Chandra @abhinavchandra0526@gmail.com
-
+•	Contact 
 
